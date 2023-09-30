@@ -1,0 +1,23 @@
+#a4{background-color: rgb(69, 69, 100); height: 50px; width: 100%;
+    padding-top: 3px;
+    margin: 3px;
+    align-items: center;
+}
+#a1{color: aliceblue;}
+#a2,#a3,#a4{display: flex;
+justify-content: space-between;}
+#f1,#f2,#f3{display: flex;
+justify-content: space-between;
+color: aliceblue;
+margin: 5px;}
+#a3{
+    color: aliceblue;
+    background-color: aqua;
+    height: 16px;
+    display: flexbox;
+    padding: 2px;
+}
+#p0{
+    background-color: grey;
+}
+#d3,#d4{color: beige;}
